@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlbumManager/AlbumManager.iml" filepath="$PROJECT_DIR$/AlbumManager/AlbumManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch08/Ch08.iml" filepath="$PROJECT_DIR$/Ch08/Ch08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch09/Ch09.iml" filepath="$PROJECT_DIR$/Ch09/Ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EngDictionary/EngDictionary.iml" filepath="$PROJECT_DIR$/EngDictionary/EngDictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EveryTimeProject/EveryTimeProject.iml" filepath="$PROJECT_DIR$/EveryTimeProject/EveryTimeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericBox/GenericBox.iml" filepath="$PROJECT_DIR$/GenericBox/GenericBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Test.iml" filepath="$PROJECT_DIR$/Java_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LamdaTest/LamdaTest.iml" filepath="$PROJECT_DIR$/LamdaTest/LamdaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RainData/RainData.iml" filepath="$PROJECT_DIR$/RainData/RainData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing/Swing.iml" filepath="$PROJECT_DIR$/Swing/Swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitHandler/UnitHandler.iml" filepath="$PROJECT_DIR$/UnitHandler/UnitHandler.iml" />
+    </modules>
+  </component>
+</project>
